@@ -1,0 +1,57 @@
+.blue-color {
+    color: blue;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+}
+
+
+
+.writing {
+    padding-left: 20px;
+}
+
+.half-width {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.btn-1 {
+    text-decoration: none;
+    padding: 10px 40px;
+    color: rgb(234, 240, 240);
+    font-weight: 700;
+    border-radius: 10px;
+    background-image: linear-gradient(tomato, purple);
+    margin-bottom: 30px;
+}
+
+.first-class {
+    margin-top: 20px;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.first-img {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.sec-class {
+    margin-top: 20px;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.sec-img {
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+}
